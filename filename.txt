@@ -1,0 +1,14 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4EE9-9FCE
+
+ Directory of C:\Users\Erica\Documents\Math2212
+
+01/28/2021  03:18 PM    <DIR>          .
+01/28/2021  03:18 PM    <DIR>          ..
+01/28/2021  02:55 PM    <DIR>          Data
+01/28/2021  03:18 PM                 0 filename.txt
+01/28/2021  03:15 PM                19 File_20200128.txt
+01/28/2021  02:55 PM                69 README.md
+01/28/2021  02:55 PM    <DIR>          TextbookFiles
+               3 File(s)             88 bytes
+               4 Dir(s)  26,749,370,368 bytes free
